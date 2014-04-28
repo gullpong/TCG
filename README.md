@@ -2,7 +2,7 @@ Template Construction Grammar (TCG) v2.5
 ===
   
 An implemented version of Template Construction Grammar (TCG) written in C++.  
-This project contains a project file for Microsoft Visual C++.  
+This project contains a project file for Microsoft Visual Studio.   
   
 ---
 Jinyong Lee (jinyongl@usc.edu), June 23. 2012  
